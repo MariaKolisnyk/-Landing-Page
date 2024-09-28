@@ -10,10 +10,14 @@ https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1
 # Features
 
 1.Responsive Design: The landing page is optimized for use across all devices, from smartphones to large screens. This ensures that customers can easily explore the products anytime, regardless of the device they use to access the site.
+
 2.UI: The interface of the landing page is designed with a focus on visual appeal and minimalism. The modern design emphasizes the uniqueness and quality of the bakery products.
+
 3.BEM Methodology: The use of the BEM (Block Element Modifier) methodology helps organize CSS code, making it more structured and understandable. This approach makes the code more modular, simplifying maintenance and updates.
+
 4.SCSS: SCSS is used to organize CSS code more efficiently. The ability to use mixins helps avoid code duplication and enhances readability.
-Social Media Integration: The landing page integrates with social networks, expanding audience reach and facilitating the sharing of products information on social platforms.
+
+5.Social Media Integration: The landing page integrates with social networks, expanding audience reach and facilitating the sharing of products information on social platforms.
 
 # Technologies Used
 HTML5
