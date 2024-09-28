@@ -5,8 +5,6 @@ https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1
 # Base layout template with Gulp, SCSS and Stylelint
 1. Create a repo using this template
 1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-   Example of how to make a demo link :
-  - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
       REAL MY DEMO LINK :
   - [DEMO LINK](https://MariaKolisnyk.github.io/-Landing-Page/)
 
